@@ -1,0 +1,1 @@
+export const setUserDataRedux = "SET_USER_DATA_REDUX";
